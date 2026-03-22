@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.7](https://github.com/jackwener/opencli/compare/v1.2.6...v1.2.7) (2026-03-22)
+
+
+### Bug Fixes
+
+* remove duplicate horizontal rules and extra blank lines in READMEs ([#266](https://github.com/jackwener/opencli/issues/266)) ([e4a13cb](https://github.com/jackwener/opencli/commit/e4a13cb6f051faa7a5c766a0319c3eb9eef80793))
+* update doctor tests for auto-start daemon and --no-live default ([#265](https://github.com/jackwener/opencli/issues/265)) ([637161f](https://github.com/jackwener/opencli/commit/637161f0abde2a5ab2173828642377e7a6fddef4))
+
 ## [1.1.0](https://github.com/jackwener/opencli/compare/v1.0.6...v1.1.0) (2026-03-20)
 
 
